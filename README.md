@@ -1,4 +1,4 @@
 # example_responsive-web
 example 반응형 웹 퍼블리싱
 
-https://uzen-stella.github.io/example_responsive-web/index.html
+https://heosunghee.github.io/example_responsive-web/index.html
